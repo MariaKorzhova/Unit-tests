@@ -1,3 +1,6 @@
+package HW1;
+
+import HW1.Calculator;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
