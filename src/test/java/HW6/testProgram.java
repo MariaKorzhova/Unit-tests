@@ -1,12 +1,12 @@
 package HW6;
 
-import org.junit.Assert;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.DisplayName;
-
-import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
+import java.util.Arrays;
+import java.util.ArrayList;
+import org.junit.Assert;
+
 
 public class testProgram {
     @Test
